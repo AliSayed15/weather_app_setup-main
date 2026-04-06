@@ -7,7 +7,7 @@ A Flutter application that provides real-time weather information using external
 
 
 The Weather App is a dynamic mobile application that allows users to check weather conditions for different locations. It fetches live data from a weather API and displays it بطريقة سهلة وواضحة.
-
+ 
 
 This project demonstrates your ability to work with:
 
